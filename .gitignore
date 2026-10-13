@@ -1,0 +1,14 @@
+# 忽略 pets 整个文件夹
+pets/
+assets/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 其他
+*.log
+.venv/
+env/
